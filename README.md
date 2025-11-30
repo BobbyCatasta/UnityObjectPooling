@@ -14,24 +14,13 @@ It features both a **ScriptableObject-based workflow** and a **generic key-drive
 
 ## 🚀 Main Features
 
-- **ScriptableObject-Based Pool Setup:**  
-  Define pools directly from the inspector.
-
-- **Automatic Runtime Instantiation:**  
-  Preload objects at startup with zero runtime allocations.
-
-- **IPoolable Interface:**  
-  Custom activation/deactivation logic for pooled objects.
-
-- **Generic ObjectPoolManager<T>:**  
-  Key-based retrieval supporting any type.
-
-- **Singleton Architecture:**  
-  Lightweight global access with self-validation.
-
-- **Example Scene Included:**  
-  Complete demo with keyboard-controlled spawning.
-
+- **ScriptableObject-Based Pool Setup**: Define pools directly from the inspector.
+- **Automatic Runtime Instantiation**: Preload objects at startup with zero runtime allocations.
+- **IPoolable Interface**: Custom activation/deactivation logic for pooled objects.
+- **Generic ObjectPoolManager<T>**: Key-based retrieval supporting any type.
+- **Singleton Architecture**: Lightweight global access with self-validation.
+- **Example Scene Included**: Complete demo with keyboard-controlled spawning.
+  
 ---
 
 ## 🛠️ Components
