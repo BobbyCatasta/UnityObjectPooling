@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c005465ef1631d646a5336cab937f486, type: 3}
+  m_Name: GameScriptablePool
+  m_EditorClassIdentifier: 
+  gameObjectsToPool:
+  - gameObject: {fileID: 9128107920556545035, guid: cbe6e9b3752aed743a9f802d301f002e, type: 3}
+    quantity: 20
+  - gameObject: {fileID: 7596986554297516840, guid: 33b0465676c99e14d8a55bb003e9c154, type: 3}
+    quantity: 10
